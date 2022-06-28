@@ -1,6 +1,6 @@
 ### Hi there!! I'm Rachel Freeland
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on my final project for Advanced Python. The app is called ***CiviDex***ß
+- 🔭 I’m currently working on my final project for Advanced Python. The app is called ***CiviDex***
 
 <!--
 **Rachel-Freeland/Rachel-Freeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
